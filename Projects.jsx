@@ -1,0 +1,1 @@
+import React from "react"; function Projects() { return ( <section> <h2>Projects</h2> <ul> <li>Movie Search App</li> <li>Recipe Book</li> <li>Shopping Cart</li> </ul> </section> ); } export default Projects;
